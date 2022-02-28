@@ -1,0 +1,30 @@
+C:\Users\Etec\AppData\Local\Temporary Projects\Picture-Componentes\bin\Debug\Picture-Componentes.exe.config
+C:\Users\Etec\AppData\Local\Temporary Projects\Picture-Componentes\bin\Debug\Picture-Componentes.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\Picture-Componentes\bin\Debug\Picture-Componentes.pdb
+C:\Users\Etec\AppData\Local\Temporary Projects\Picture-Componentes\bin\Debug\Picture-Componentes.xml
+C:\Users\Etec\AppData\Local\Temporary Projects\Picture-Componentes\obj\Debug\Picture_Componentes.Form1.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\Picture-Componentes\obj\Debug\Picture_Componentes.Resources.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\Picture-Componentes\obj\Debug\Picture-Componentes.vbproj.GenerateResource.Cache
+C:\Users\Etec\AppData\Local\Temporary Projects\Picture-Componentes\obj\Debug\Picture-Componentes.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\Picture-Componentes\obj\Debug\Picture-Componentes.xml
+C:\Users\Etec\AppData\Local\Temporary Projects\Picture-Componentes\obj\Debug\Picture-Componentes.pdb
+C:\Users\Etec\AppData\Local\Temporary Projects\Picture-Componentes\obj\Debug\Picture_Componentes.Form2.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\Picture-Componentes\obj\Debug\Picture_Componentes.Form3.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\Picture-Componentes\obj\Debug\Picture_Componentes.Form4.resources
+E:\LPOO\Picture-Componentes\Picture-Componentes\bin\Debug\Picture-Componentes.exe.config
+E:\LPOO\Picture-Componentes\Picture-Componentes\obj\Debug\Picture-Componentes.exe
+E:\LPOO\Picture-Componentes\Picture-Componentes\obj\Debug\Picture-Componentes.xml
+E:\LPOO\Picture-Componentes\Picture-Componentes\obj\Debug\Picture-Componentes.pdb
+E:\LARA\LPOO\Picture-Componentes\Picture-Componentes\bin\Debug\Picture-Componentes.exe.config
+E:\LARA\LPOO\Picture-Componentes\Picture-Componentes\obj\Debug\Picture-Componentes.exe
+E:\LARA\LPOO\Picture-Componentes\Picture-Componentes\obj\Debug\Picture-Componentes.xml
+E:\LARA\LPOO\Picture-Componentes\Picture-Componentes\obj\Debug\Picture-Componentes.pdb
+E:\LARA\LPOO\Picture-Componentes\Picture-Componentes\bin\Debug\Picture-Componentes.exe
+E:\LARA\LPOO\Picture-Componentes\Picture-Componentes\bin\Debug\Picture-Componentes.pdb
+E:\LARA\LPOO\Picture-Componentes\Picture-Componentes\bin\Debug\Picture-Componentes.xml
+E:\LARA\LPOO\Picture-Componentes\Picture-Componentes\obj\Debug\Picture_Componentes.Form1.resources
+E:\LARA\LPOO\Picture-Componentes\Picture-Componentes\obj\Debug\Picture_Componentes.Form2.resources
+E:\LARA\LPOO\Picture-Componentes\Picture-Componentes\obj\Debug\Picture_Componentes.Form3.resources
+E:\LARA\LPOO\Picture-Componentes\Picture-Componentes\obj\Debug\Picture_Componentes.Form4.resources
+E:\LARA\LPOO\Picture-Componentes\Picture-Componentes\obj\Debug\Picture_Componentes.Resources.resources
+E:\LARA\LPOO\Picture-Componentes\Picture-Componentes\obj\Debug\Picture-Componentes.vbproj.GenerateResource.Cache

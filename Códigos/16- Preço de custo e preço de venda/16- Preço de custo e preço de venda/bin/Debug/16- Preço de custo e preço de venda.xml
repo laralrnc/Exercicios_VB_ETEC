@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+16-Preçodecustoepreçodevenda
+</name>
+</assembly>
+<members>
+<member name="P:_16__Preço_de_custo_e_preço_de_venda.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:_16__Preço_de_custo_e_preço_de_venda.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:_16__Preço_de_custo_e_preço_de_venda.My.Resources.Resources._1489284177_close">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:_16__Preço_de_custo_e_preço_de_venda.My.Resources.Resources._1489284252_broom_stick_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:_16__Preço_de_custo_e_preço_de_venda.My.Resources.Resources._1489284322_Finance_finance_calculator">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:_16__Preço_de_custo_e_preço_de_venda.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

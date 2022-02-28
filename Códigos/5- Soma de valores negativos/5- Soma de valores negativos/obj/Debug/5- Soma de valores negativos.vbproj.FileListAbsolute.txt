@@ -1,0 +1,24 @@
+C:\Users\Etec\AppData\Local\Temporary Projects\5- Soma de valores negativos\bin\Debug\5- Soma de valores negativos.exe.config
+C:\Users\Etec\AppData\Local\Temporary Projects\5- Soma de valores negativos\bin\Debug\5- Soma de valores negativos.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\5- Soma de valores negativos\bin\Debug\5- Soma de valores negativos.pdb
+C:\Users\Etec\AppData\Local\Temporary Projects\5- Soma de valores negativos\bin\Debug\5- Soma de valores negativos.xml
+C:\Users\Etec\AppData\Local\Temporary Projects\5- Soma de valores negativos\obj\Debug\_5__Soma_de_valores_negativos.Form1.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\5- Soma de valores negativos\obj\Debug\_5__Soma_de_valores_negativos.Resources.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\5- Soma de valores negativos\obj\Debug\5- Soma de valores negativos.vbproj.GenerateResource.Cache
+C:\Users\Etec\AppData\Local\Temporary Projects\5- Soma de valores negativos\obj\Debug\5- Soma de valores negativos.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\5- Soma de valores negativos\obj\Debug\5- Soma de valores negativos.xml
+C:\Users\Etec\AppData\Local\Temporary Projects\5- Soma de valores negativos\obj\Debug\5- Soma de valores negativos.pdb
+C:\Users\Etec\Desktop\5- Soma de valores negativos\5- Soma de valores negativos\bin\Debug\5- Soma de valores negativos.exe.config
+C:\Users\Etec\Desktop\5- Soma de valores negativos\5- Soma de valores negativos\obj\Debug\5- Soma de valores negativos.exe
+C:\Users\Etec\Desktop\5- Soma de valores negativos\5- Soma de valores negativos\obj\Debug\5- Soma de valores negativos.xml
+C:\Users\Etec\Desktop\5- Soma de valores negativos\5- Soma de valores negativos\obj\Debug\5- Soma de valores negativos.pdb
+I:\lara\LPOO\5- Soma de valores negativos\5- Soma de valores negativos\bin\Debug\5- Soma de valores negativos.exe.config
+I:\lara\LPOO\5- Soma de valores negativos\5- Soma de valores negativos\obj\Debug\5- Soma de valores negativos.exe
+I:\lara\LPOO\5- Soma de valores negativos\5- Soma de valores negativos\obj\Debug\5- Soma de valores negativos.xml
+I:\lara\LPOO\5- Soma de valores negativos\5- Soma de valores negativos\obj\Debug\5- Soma de valores negativos.pdb
+I:\lara\LPOO\5- Soma de valores negativos\5- Soma de valores negativos\bin\Debug\5- Soma de valores negativos.exe
+I:\lara\LPOO\5- Soma de valores negativos\5- Soma de valores negativos\bin\Debug\5- Soma de valores negativos.pdb
+I:\lara\LPOO\5- Soma de valores negativos\5- Soma de valores negativos\bin\Debug\5- Soma de valores negativos.xml
+I:\lara\LPOO\5- Soma de valores negativos\5- Soma de valores negativos\obj\Debug\_5__Soma_de_valores_negativos.Form1.resources
+I:\lara\LPOO\5- Soma de valores negativos\5- Soma de valores negativos\obj\Debug\_5__Soma_de_valores_negativos.Resources.resources
+I:\lara\LPOO\5- Soma de valores negativos\5- Soma de valores negativos\obj\Debug\5- Soma de valores negativos.vbproj.GenerateResource.Cache

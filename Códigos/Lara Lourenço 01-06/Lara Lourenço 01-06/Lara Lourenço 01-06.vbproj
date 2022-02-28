@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CD427EFC-F372-4F1B-8153-41BF9982AD0C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Lara_Lourenço_01_06.My.MyApplication</StartupObject>
+    <RootNamespace>Lara_Lourenço_01_06</RootNamespace>
+    <AssemblyName>Lara Lourenço 01-06</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Lara Lourenço 01-06.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Lara Lourenço 01-06.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>1496005208_advantage_quality.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Resources.vb" />
+    <Compile Include="SplashScreen1.Designer.vb">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen1.resx">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2016julia.veep.prot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2016kate.saturday.coa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2016maggie.abbey.coa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2016tatiana.orphan.prot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2015allison.mom.coa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2015julia.veep.prot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2015uzo.orange.coa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2015viola.murder.prot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2014allison.mom.coa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2014anna.breaking.coa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2014julia.veep.prot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2014julianna.wife.prot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2013anna.breaking.coa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2013claire.homeland.prot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2013julia.veep.prot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2013merritt.nurse.coa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2016ben.bloodline.coa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2016jeffrey.transparent.prot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2016louie.baskets.coa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2016rami.robot.prot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2015jeffrey.transparent.prot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2015jon.madmen.prot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2015peter.game.coa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2015tony.veep.coa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2014aaron.breaking.coa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2014bryan.breaking.prot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2014jim.bigbang.prot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2014ty.modern.coa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2013bobby.boardwalk.coa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2013jeff.newsroom.prot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2013jim.bigbang.prot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2013tony.veep.coa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_plasma-tv_icon-icons.com_59528.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2015allison.mom.coa1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2015allison.mom.coa2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1496005208_advantage_quality.ico" />
+    <None Include="Resources\fundo.jpg" />
+    <None Include="Resources\emmys1.jpg" />
+    <None Include="Resources\emmys.jpg" />
+    <None Include="Resources\wp1836999.jpg" />
+    <None Include="Resources\73869.jpg" />
+    <None Include="Resources\emmy 600x300.jpg" />
+    <None Include="Resources\emmy-nominations-revealed-game-of-thrones-dominates-01.jpg" />
+    <None Include="Resources\television-png-tv-0.png" />
+    <None Include="Resources\emmy-emmys-awards-placeholder-2.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

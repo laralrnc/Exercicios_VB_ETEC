@@ -1,0 +1,30 @@
+C:\Users\SALA\AppData\Local\Temporary Projects\10- R x M+3+M\bin\Debug\10- R x M+3+M.exe.config
+C:\Users\SALA\AppData\Local\Temporary Projects\10- R x M+3+M\bin\Debug\10- R x M+3+M.exe
+C:\Users\SALA\AppData\Local\Temporary Projects\10- R x M+3+M\bin\Debug\10- R x M+3+M.pdb
+C:\Users\SALA\AppData\Local\Temporary Projects\10- R x M+3+M\bin\Debug\10- R x M+3+M.xml
+C:\Users\SALA\AppData\Local\Temporary Projects\10- R x M+3+M\obj\Debug\_10__R_x_M_3_M.Form1.resources
+C:\Users\SALA\AppData\Local\Temporary Projects\10- R x M+3+M\obj\Debug\_10__R_x_M_3_M.Resources.resources
+C:\Users\SALA\AppData\Local\Temporary Projects\10- R x M+3+M\obj\Debug\10- R x M+3+M.vbproj.GenerateResource.Cache
+C:\Users\SALA\AppData\Local\Temporary Projects\10- R x M+3+M\obj\Debug\10- R x M+3+M.exe
+C:\Users\SALA\AppData\Local\Temporary Projects\10- R x M+3+M\obj\Debug\10- R x M+3+M.xml
+C:\Users\SALA\AppData\Local\Temporary Projects\10- R x M+3+M\obj\Debug\10- R x M+3+M.pdb
+C:\Users\SALA\Desktop\10- R x M+3+M\10- R x M+3+M\bin\Debug\10- R x M+3+M.exe.config
+C:\Users\SALA\Desktop\10- R x M+3+M\10- R x M+3+M\obj\Debug\10- R x M+3+M.exe
+C:\Users\SALA\Desktop\10- R x M+3+M\10- R x M+3+M\obj\Debug\10- R x M+3+M.xml
+C:\Users\SALA\Desktop\10- R x M+3+M\10- R x M+3+M\obj\Debug\10- R x M+3+M.pdb
+C:\Users\SALA\Desktop\10- R x M+3+M\10- R x M+3+M\bin\Debug\10- R x M+3+M.exe
+C:\Users\SALA\Desktop\10- R x M+3+M\10- R x M+3+M\bin\Debug\10- R x M+3+M.pdb
+C:\Users\SALA\Desktop\10- R x M+3+M\10- R x M+3+M\bin\Debug\10- R x M+3+M.xml
+C:\Users\SALA\Desktop\10- R x M+3+M\10- R x M+3+M\obj\Debug\_10__R_x_M_3_M.Form1.resources
+C:\Users\SALA\Desktop\10- R x M+3+M\10- R x M+3+M\obj\Debug\_10__R_x_M_3_M.Resources.resources
+C:\Users\SALA\Desktop\10- R x M+3+M\10- R x M+3+M\obj\Debug\10- R x M+3+M.vbproj.GenerateResource.Cache
+I:\lara\LPOO\10- R x M+3+M\10- R x M+3+M\bin\Debug\10- R x M+3+M.exe.config
+I:\lara\LPOO\10- R x M+3+M\10- R x M+3+M\obj\Debug\10- R x M+3+M.exe
+I:\lara\LPOO\10- R x M+3+M\10- R x M+3+M\obj\Debug\10- R x M+3+M.xml
+I:\lara\LPOO\10- R x M+3+M\10- R x M+3+M\obj\Debug\10- R x M+3+M.pdb
+I:\lara\LPOO\10- R x M+3+M\10- R x M+3+M\bin\Debug\10- R x M+3+M.exe
+I:\lara\LPOO\10- R x M+3+M\10- R x M+3+M\bin\Debug\10- R x M+3+M.pdb
+I:\lara\LPOO\10- R x M+3+M\10- R x M+3+M\bin\Debug\10- R x M+3+M.xml
+I:\lara\LPOO\10- R x M+3+M\10- R x M+3+M\obj\Debug\_10__R_x_M_3_M.Form1.resources
+I:\lara\LPOO\10- R x M+3+M\10- R x M+3+M\obj\Debug\_10__R_x_M_3_M.Resources.resources
+I:\lara\LPOO\10- R x M+3+M\10- R x M+3+M\obj\Debug\10- R x M+3+M.vbproj.GenerateResource.Cache

@@ -1,0 +1,28 @@
+C:\Users\Etec\AppData\Local\Temporary Projects\6- Adicionando 20\bin\Debug\6- Adicionando 20.exe.config
+C:\Users\Etec\AppData\Local\Temporary Projects\6- Adicionando 20\bin\Debug\6- Adicionando 20.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\6- Adicionando 20\bin\Debug\6- Adicionando 20.pdb
+C:\Users\Etec\AppData\Local\Temporary Projects\6- Adicionando 20\bin\Debug\6- Adicionando 20.xml
+C:\Users\Etec\AppData\Local\Temporary Projects\6- Adicionando 20\obj\Debug\_6__Adicionando_20.Form1.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\6- Adicionando 20\obj\Debug\_6__Adicionando_20.Resources.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\6- Adicionando 20\obj\Debug\6- Adicionando 20.vbproj.GenerateResource.Cache
+C:\Users\Etec\AppData\Local\Temporary Projects\6- Adicionando 20\obj\Debug\6- Adicionando 20.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\6- Adicionando 20\obj\Debug\6- Adicionando 20.xml
+C:\Users\Etec\AppData\Local\Temporary Projects\6- Adicionando 20\obj\Debug\6- Adicionando 20.pdb
+C:\Users\Etec\Desktop\6- Adicionando 20\6- Adicionando 20\bin\Debug\6- Adicionando 20.exe.config
+C:\Users\Etec\Desktop\6- Adicionando 20\6- Adicionando 20\obj\Debug\6- Adicionando 20.exe
+C:\Users\Etec\Desktop\6- Adicionando 20\6- Adicionando 20\obj\Debug\6- Adicionando 20.xml
+C:\Users\Etec\Desktop\6- Adicionando 20\6- Adicionando 20\obj\Debug\6- Adicionando 20.pdb
+E:\lara\LPOO\6- Adicionando 20\6- Adicionando 20\bin\Debug\6- Adicionando 20.exe.config
+E:\lara\LPOO\6- Adicionando 20\6- Adicionando 20\obj\Debug\6- Adicionando 20.exe
+E:\lara\LPOO\6- Adicionando 20\6- Adicionando 20\obj\Debug\6- Adicionando 20.xml
+E:\lara\LPOO\6- Adicionando 20\6- Adicionando 20\obj\Debug\6- Adicionando 20.pdb
+I:\lara\LPOO\6- Adicionando 20\6- Adicionando 20\bin\Debug\6- Adicionando 20.exe.config
+I:\lara\LPOO\6- Adicionando 20\6- Adicionando 20\obj\Debug\6- Adicionando 20.exe
+I:\lara\LPOO\6- Adicionando 20\6- Adicionando 20\obj\Debug\6- Adicionando 20.xml
+I:\lara\LPOO\6- Adicionando 20\6- Adicionando 20\obj\Debug\6- Adicionando 20.pdb
+I:\lara\LPOO\6- Adicionando 20\6- Adicionando 20\bin\Debug\6- Adicionando 20.exe
+I:\lara\LPOO\6- Adicionando 20\6- Adicionando 20\bin\Debug\6- Adicionando 20.pdb
+I:\lara\LPOO\6- Adicionando 20\6- Adicionando 20\bin\Debug\6- Adicionando 20.xml
+I:\lara\LPOO\6- Adicionando 20\6- Adicionando 20\obj\Debug\_6__Adicionando_20.Form1.resources
+I:\lara\LPOO\6- Adicionando 20\6- Adicionando 20\obj\Debug\_6__Adicionando_20.Resources.resources
+I:\lara\LPOO\6- Adicionando 20\6- Adicionando 20\obj\Debug\6- Adicionando 20.vbproj.GenerateResource.Cache

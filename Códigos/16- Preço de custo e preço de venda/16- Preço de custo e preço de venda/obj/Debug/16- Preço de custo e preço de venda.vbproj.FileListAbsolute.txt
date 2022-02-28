@@ -1,0 +1,30 @@
+C:\Users\SALA\AppData\Local\Temporary Projects\16- Preço de custo e preço de venda\bin\Debug\16- Preço de custo e preço de venda.exe.config
+C:\Users\SALA\AppData\Local\Temporary Projects\16- Preço de custo e preço de venda\bin\Debug\16- Preço de custo e preço de venda.exe
+C:\Users\SALA\AppData\Local\Temporary Projects\16- Preço de custo e preço de venda\bin\Debug\16- Preço de custo e preço de venda.pdb
+C:\Users\SALA\AppData\Local\Temporary Projects\16- Preço de custo e preço de venda\bin\Debug\16- Preço de custo e preço de venda.xml
+C:\Users\SALA\AppData\Local\Temporary Projects\16- Preço de custo e preço de venda\obj\Debug\_16__Preço_de_custo_e_preço_de_venda.Form1.resources
+C:\Users\SALA\AppData\Local\Temporary Projects\16- Preço de custo e preço de venda\obj\Debug\_16__Preço_de_custo_e_preço_de_venda.Resources.resources
+C:\Users\SALA\AppData\Local\Temporary Projects\16- Preço de custo e preço de venda\obj\Debug\16- Preço de custo e preço de venda.vbproj.GenerateResource.Cache
+C:\Users\SALA\AppData\Local\Temporary Projects\16- Preço de custo e preço de venda\obj\Debug\16- Preço de custo e preço de venda.exe
+C:\Users\SALA\AppData\Local\Temporary Projects\16- Preço de custo e preço de venda\obj\Debug\16- Preço de custo e preço de venda.xml
+C:\Users\SALA\AppData\Local\Temporary Projects\16- Preço de custo e preço de venda\obj\Debug\16- Preço de custo e preço de venda.pdb
+C:\Users\SALA\Desktop\16- Preço de custo e preço de venda\16- Preço de custo e preço de venda\bin\Debug\16- Preço de custo e preço de venda.exe.config
+C:\Users\SALA\Desktop\16- Preço de custo e preço de venda\16- Preço de custo e preço de venda\obj\Debug\16- Preço de custo e preço de venda.exe
+C:\Users\SALA\Desktop\16- Preço de custo e preço de venda\16- Preço de custo e preço de venda\obj\Debug\16- Preço de custo e preço de venda.xml
+C:\Users\SALA\Desktop\16- Preço de custo e preço de venda\16- Preço de custo e preço de venda\obj\Debug\16- Preço de custo e preço de venda.pdb
+C:\Users\SALA\Desktop\16- Preço de custo e preço de venda\16- Preço de custo e preço de venda\bin\Debug\16- Preço de custo e preço de venda.exe
+C:\Users\SALA\Desktop\16- Preço de custo e preço de venda\16- Preço de custo e preço de venda\bin\Debug\16- Preço de custo e preço de venda.pdb
+C:\Users\SALA\Desktop\16- Preço de custo e preço de venda\16- Preço de custo e preço de venda\bin\Debug\16- Preço de custo e preço de venda.xml
+C:\Users\SALA\Desktop\16- Preço de custo e preço de venda\16- Preço de custo e preço de venda\obj\Debug\_16__Preço_de_custo_e_preço_de_venda.Form1.resources
+C:\Users\SALA\Desktop\16- Preço de custo e preço de venda\16- Preço de custo e preço de venda\obj\Debug\_16__Preço_de_custo_e_preço_de_venda.Resources.resources
+C:\Users\SALA\Desktop\16- Preço de custo e preço de venda\16- Preço de custo e preço de venda\obj\Debug\16- Preço de custo e preço de venda.vbproj.GenerateResource.Cache
+E:\lara\LPOO\16- Preço de custo e preço de venda\16- Preço de custo e preço de venda\bin\Debug\16- Preço de custo e preço de venda.exe.config
+E:\lara\LPOO\16- Preço de custo e preço de venda\16- Preço de custo e preço de venda\obj\Debug\16- Preço de custo e preço de venda.exe
+E:\lara\LPOO\16- Preço de custo e preço de venda\16- Preço de custo e preço de venda\obj\Debug\16- Preço de custo e preço de venda.xml
+E:\lara\LPOO\16- Preço de custo e preço de venda\16- Preço de custo e preço de venda\obj\Debug\16- Preço de custo e preço de venda.pdb
+E:\lara\LPOO\16- Preço de custo e preço de venda\16- Preço de custo e preço de venda\bin\Debug\16- Preço de custo e preço de venda.exe
+E:\lara\LPOO\16- Preço de custo e preço de venda\16- Preço de custo e preço de venda\bin\Debug\16- Preço de custo e preço de venda.pdb
+E:\lara\LPOO\16- Preço de custo e preço de venda\16- Preço de custo e preço de venda\bin\Debug\16- Preço de custo e preço de venda.xml
+E:\lara\LPOO\16- Preço de custo e preço de venda\16- Preço de custo e preço de venda\obj\Debug\_16__Preço_de_custo_e_preço_de_venda.Form1.resources
+E:\lara\LPOO\16- Preço de custo e preço de venda\16- Preço de custo e preço de venda\obj\Debug\_16__Preço_de_custo_e_preço_de_venda.Resources.resources
+E:\lara\LPOO\16- Preço de custo e preço de venda\16- Preço de custo e preço de venda\obj\Debug\16- Preço de custo e preço de venda.vbproj.GenerateResource.Cache

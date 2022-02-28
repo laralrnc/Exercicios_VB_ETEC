@@ -1,0 +1,59 @@
+C:\Users\Etec\Desktop\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\bin\Debug\Lara Lourenço 22-06.exe.config
+E:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form1.resources
+E:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form2.resources
+E:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form3.resources
+E:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Resources.resources
+E:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lara Lourenço 22-06.vbproj.GenerateResource.Cache
+E:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form4.resources
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\bin\Debug\Lara Lourenço 22-06.exe.config
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lara Lourenço 22-06.exe
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lara Lourenço 22-06.xml
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lara Lourenço 22-06.pdb
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\bin\Debug\Lara Lourenço 22-06.exe
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\bin\Debug\Lara Lourenço 22-06.pdb
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\bin\Debug\Lara Lourenço 22-06.xml
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form1.resources
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form2.resources
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form3.resources
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form4.resources
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Resources.resources
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lara Lourenço 22-06.vbproj.GenerateResource.Cache
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form5.resources
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form6.resources
+J:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\bin\Debug\Lara Lourenço 22-06.exe.config
+J:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lara Lourenço 22-06.exe
+J:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lara Lourenço 22-06.xml
+J:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lara Lourenço 22-06.pdb
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form7.resources
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form8.resources
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form9.resources
+E:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form5.resources
+E:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form6.resources
+E:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form7.resources
+E:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form8.resources
+E:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form9.resources
+I:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\bin\Debug\c.exe.config
+I:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\bin\Debug\c.exe
+I:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\bin\Debug\c.pdb
+I:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\bin\Debug\c.xml
+I:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form1.resources
+I:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form2.resources
+I:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form3.resources
+I:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form4.resources
+I:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form5.resources
+I:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form6.resources
+I:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form7.resources
+I:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form8.resources
+I:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form9.resources
+I:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Resources.resources
+I:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\Lara Lourenço 22-06.vbproj.GenerateResource.Cache
+I:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\c.exe
+I:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\c.xml
+I:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\c.pdb
+E:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\bin\Debug\c.exe.config
+E:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\c.exe
+E:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\c.xml
+E:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\obj\Debug\c.pdb
+E:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\bin\Debug\c.exe
+E:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\bin\Debug\c.pdb
+E:\LARA\Lista orientaões a objetos 22-06\Lara Lourenço 22-06\bin\Debug\c.xml

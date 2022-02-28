@@ -1,0 +1,22 @@
+C:\Users\Etec\Desktop\aula 30-03 operadores logicos\aula 30-03 operadores logicos\bin\Debug\aula 30-03 operadores logicos.exe.config
+C:\Users\Etec\Desktop\aula 30-03 operadores logicos\aula 30-03 operadores logicos\bin\Debug\aula 30-03 operadores logicos.exe
+C:\Users\Etec\Desktop\aula 30-03 operadores logicos\aula 30-03 operadores logicos\bin\Debug\aula 30-03 operadores logicos.pdb
+C:\Users\Etec\Desktop\aula 30-03 operadores logicos\aula 30-03 operadores logicos\bin\Debug\aula 30-03 operadores logicos.xml
+C:\Users\Etec\Desktop\aula 30-03 operadores logicos\aula 30-03 operadores logicos\obj\Debug\operadores_logicos.Form1.resources
+C:\Users\Etec\Desktop\aula 30-03 operadores logicos\aula 30-03 operadores logicos\obj\Debug\operadores_logicos.Form2.resources
+C:\Users\Etec\Desktop\aula 30-03 operadores logicos\aula 30-03 operadores logicos\obj\Debug\operadores_logicos.Resources.resources
+C:\Users\Etec\Desktop\aula 30-03 operadores logicos\aula 30-03 operadores logicos\obj\Debug\aula 30-03 operadores logicos.vbproj.GenerateResource.Cache
+C:\Users\Etec\Desktop\aula 30-03 operadores logicos\aula 30-03 operadores logicos\obj\Debug\aula 30-03 operadores logicos.exe
+C:\Users\Etec\Desktop\aula 30-03 operadores logicos\aula 30-03 operadores logicos\obj\Debug\aula 30-03 operadores logicos.xml
+C:\Users\Etec\Desktop\aula 30-03 operadores logicos\aula 30-03 operadores logicos\obj\Debug\aula 30-03 operadores logicos.pdb
+C:\Users\Etec\Desktop\aula 30-03 operadores logicos\aula 30-03 operadores logicos\obj\Debug\operadores_logicos.Form3.resources
+C:\Users\Etec\Desktop\aula 30-03 operadores logicos\aula 30-03 operadores logicos\obj\Debug\operadores_logicos.Form4.resources
+C:\Users\Etec\Desktop\aula 30-03 operadores logicos\aula 30-03 operadores logicos\obj\Debug\operadores_logicos.Form5.resources
+E:\lara\LPOO\aula 30-03 operadores logicos\aula 30-03 operadores logicos\bin\Debug\aula 30-03 operadores logicos.exe.config
+E:\lara\LPOO\aula 30-03 operadores logicos\aula 30-03 operadores logicos\obj\Debug\aula 30-03 operadores logicos.exe
+E:\lara\LPOO\aula 30-03 operadores logicos\aula 30-03 operadores logicos\obj\Debug\aula 30-03 operadores logicos.xml
+E:\lara\LPOO\aula 30-03 operadores logicos\aula 30-03 operadores logicos\obj\Debug\aula 30-03 operadores logicos.pdb
+E:\LARA\LPOO\PRIMEIRO SEMESTRE\aula 30-03 operadores logicos\aula 30-03 operadores logicos\bin\Debug\aula 30-03 operadores logicos.exe.config
+E:\LARA\LPOO\PRIMEIRO SEMESTRE\aula 30-03 operadores logicos\aula 30-03 operadores logicos\obj\Debug\aula 30-03 operadores logicos.exe
+E:\LARA\LPOO\PRIMEIRO SEMESTRE\aula 30-03 operadores logicos\aula 30-03 operadores logicos\obj\Debug\aula 30-03 operadores logicos.xml
+E:\LARA\LPOO\PRIMEIRO SEMESTRE\aula 30-03 operadores logicos\aula 30-03 operadores logicos\obj\Debug\aula 30-03 operadores logicos.pdb

@@ -1,0 +1,30 @@
+C:\Users\LAB01-ETECJA\Desktop\7- expressao numerica\7- expressao numerica\bin\Debug\7- expressao numerica.exe.config
+C:\Users\LAB01-ETECJA\Desktop\7- expressao numerica\7- expressao numerica\bin\Debug\7- expressao numerica.exe
+C:\Users\LAB01-ETECJA\Desktop\7- expressao numerica\7- expressao numerica\bin\Debug\7- expressao numerica.pdb
+C:\Users\LAB01-ETECJA\Desktop\7- expressao numerica\7- expressao numerica\bin\Debug\7- expressao numerica.xml
+C:\Users\LAB01-ETECJA\Desktop\7- expressao numerica\7- expressao numerica\obj\Debug\_7__expressao_numerica.Form1.resources
+C:\Users\LAB01-ETECJA\Desktop\7- expressao numerica\7- expressao numerica\obj\Debug\_7__expressao_numerica.Resources.resources
+C:\Users\LAB01-ETECJA\Desktop\7- expressao numerica\7- expressao numerica\obj\Debug\7- expressao numerica.vbproj.GenerateResource.Cache
+C:\Users\LAB01-ETECJA\Desktop\7- expressao numerica\7- expressao numerica\obj\Debug\7- expressao numerica.exe
+C:\Users\LAB01-ETECJA\Desktop\7- expressao numerica\7- expressao numerica\obj\Debug\7- expressao numerica.xml
+C:\Users\LAB01-ETECJA\Desktop\7- expressao numerica\7- expressao numerica\obj\Debug\7- expressao numerica.pdb
+E:\lara\LPOO\7- expressao numerica\7- expressao numerica\bin\Debug\7- expressao numerica.exe.config
+E:\lara\LPOO\7- expressao numerica\7- expressao numerica\obj\Debug\7- expressao numerica.exe
+E:\lara\LPOO\7- expressao numerica\7- expressao numerica\obj\Debug\7- expressao numerica.xml
+E:\lara\LPOO\7- expressao numerica\7- expressao numerica\obj\Debug\7- expressao numerica.pdb
+E:\lara\LPOO\7- expressao numerica\7- expressao numerica\bin\Debug\7- expressao numerica.exe
+E:\lara\LPOO\7- expressao numerica\7- expressao numerica\bin\Debug\7- expressao numerica.pdb
+E:\lara\LPOO\7- expressao numerica\7- expressao numerica\bin\Debug\7- expressao numerica.xml
+E:\lara\LPOO\7- expressao numerica\7- expressao numerica\obj\Debug\_7__expressao_numerica.Form1.resources
+E:\lara\LPOO\7- expressao numerica\7- expressao numerica\obj\Debug\_7__expressao_numerica.Resources.resources
+E:\lara\LPOO\7- expressao numerica\7- expressao numerica\obj\Debug\7- expressao numerica.vbproj.GenerateResource.Cache
+I:\lara\LPOO\7- expressao numerica\7- expressao numerica\bin\Debug\7- expressao numerica.exe.config
+I:\lara\LPOO\7- expressao numerica\7- expressao numerica\obj\Debug\7- expressao numerica.exe
+I:\lara\LPOO\7- expressao numerica\7- expressao numerica\obj\Debug\7- expressao numerica.xml
+I:\lara\LPOO\7- expressao numerica\7- expressao numerica\obj\Debug\7- expressao numerica.pdb
+I:\lara\LPOO\7- expressao numerica\7- expressao numerica\bin\Debug\7- expressao numerica.exe
+I:\lara\LPOO\7- expressao numerica\7- expressao numerica\bin\Debug\7- expressao numerica.pdb
+I:\lara\LPOO\7- expressao numerica\7- expressao numerica\bin\Debug\7- expressao numerica.xml
+I:\lara\LPOO\7- expressao numerica\7- expressao numerica\obj\Debug\_7__expressao_numerica.Form1.resources
+I:\lara\LPOO\7- expressao numerica\7- expressao numerica\obj\Debug\_7__expressao_numerica.Resources.resources
+I:\lara\LPOO\7- expressao numerica\7- expressao numerica\obj\Debug\7- expressao numerica.vbproj.GenerateResource.Cache

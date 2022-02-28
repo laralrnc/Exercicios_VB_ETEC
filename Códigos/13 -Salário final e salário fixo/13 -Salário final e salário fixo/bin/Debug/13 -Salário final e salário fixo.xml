@@ -1,0 +1,40 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+13-Saláriofinalesaláriofixo
+</name>
+</assembly>
+<members>
+<member name="P:_13__Salário_final_e_salário_fixo.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:_13__Salário_final_e_salário_fixo.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:_13__Salário_final_e_salário_fixo.My.Resources.Resources._1489279964_button_percentage_maths_calculator">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:_13__Salário_final_e_salário_fixo.My.Resources.Resources._1489279964_button_percentage_maths_calculator1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:_13__Salário_final_e_salário_fixo.My.Resources.Resources._1489280009_arrows_70">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:_13__Salário_final_e_salário_fixo.My.Resources.Resources._1489280240_square_root">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:_13__Salário_final_e_salário_fixo.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

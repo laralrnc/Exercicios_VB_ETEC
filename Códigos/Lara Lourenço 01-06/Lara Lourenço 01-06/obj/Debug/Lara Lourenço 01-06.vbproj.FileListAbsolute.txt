@@ -1,0 +1,69 @@
+C:\Users\SALA\AppData\Local\Temporary Projects\Lara Lourenço 01-06\bin\Debug\Lara Lourenço 01-06.exe.config
+C:\Users\SALA\AppData\Local\Temporary Projects\Lara Lourenço 01-06\obj\Debug\Lara_Lourenço_01_06.Resources.resources
+C:\Users\SALA\AppData\Local\Temporary Projects\Lara Lourenço 01-06\obj\Debug\Lara_Lourenço_01_06.SplashScreen1.resources
+C:\Users\SALA\AppData\Local\Temporary Projects\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.vbproj.GenerateResource.Cache
+C:\Users\SALA\AppData\Local\Temporary Projects\Lara Lourenço 01-06\bin\Debug\Lara Lourenço 01-06.exe
+C:\Users\SALA\AppData\Local\Temporary Projects\Lara Lourenço 01-06\bin\Debug\Lara Lourenço 01-06.pdb
+C:\Users\SALA\AppData\Local\Temporary Projects\Lara Lourenço 01-06\bin\Debug\Lara Lourenço 01-06.xml
+C:\Users\SALA\AppData\Local\Temporary Projects\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.exe
+C:\Users\SALA\AppData\Local\Temporary Projects\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.xml
+C:\Users\SALA\AppData\Local\Temporary Projects\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.pdb
+C:\Users\SALA\Desktop\Lara Lourenço 01-06\Lara Lourenço 01-06\bin\Debug\Lara Lourenço 01-06.exe.config
+C:\Users\SALA\Desktop\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.exe
+C:\Users\SALA\Desktop\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.xml
+C:\Users\SALA\Desktop\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.pdb
+E:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\bin\Debug\Lara Lourenço 01-06.exe.config
+E:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.exe
+E:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.xml
+E:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.pdb
+F:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\bin\Debug\Lara Lourenço 01-06.exe.config
+F:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.exe
+F:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.xml
+F:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.pdb
+F:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\bin\Debug\Lara Lourenço 01-06.exe
+F:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\bin\Debug\Lara Lourenço 01-06.pdb
+F:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\bin\Debug\Lara Lourenço 01-06.xml
+F:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara_Lourenço_01_06.Form1.resources
+F:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara_Lourenço_01_06.Resources.resources
+F:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara_Lourenço_01_06.SplashScreen1.resources
+F:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.vbproj.GenerateResource.Cache
+E:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\bin\Debug\Lara Lourenço 01-06.exe
+E:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\bin\Debug\Lara Lourenço 01-06.pdb
+E:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\bin\Debug\Lara Lourenço 01-06.xml
+E:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara_Lourenço_01_06.Form1.resources
+E:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara_Lourenço_01_06.Resources.resources
+E:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara_Lourenço_01_06.SplashScreen1.resources
+E:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.vbproj.GenerateResource.Cache
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lara Lourenço 01-06\Lara Lourenço 01-06\bin\Debug\Lara Lourenço 01-06.exe.config
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.exe
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.xml
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.pdb
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lara Lourenço 01-06\Lara Lourenço 01-06\bin\Debug\Lara Lourenço 01-06.exe
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lara Lourenço 01-06\Lara Lourenço 01-06\bin\Debug\Lara Lourenço 01-06.pdb
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lara Lourenço 01-06\Lara Lourenço 01-06\bin\Debug\Lara Lourenço 01-06.xml
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara_Lourenço_01_06.Form1.resources
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara_Lourenço_01_06.Resources.resources
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara_Lourenço_01_06.SplashScreen1.resources
+C:\Users\SALA\Videos\LARA PEN DRIVE\SEGUNDO ANO\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.vbproj.GenerateResource.Cache
+C:\Users\SALA\Desktop\Lara Lourenço 01-06\Lara Lourenço 01-06\bin\Debug\Lara Lourenço 01-06.exe
+C:\Users\SALA\Desktop\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara_Lourenço_01_06.Form1.resources
+C:\Users\SALA\Desktop\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara_Lourenço_01_06.Resources.resources
+C:\Users\SALA\Desktop\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara_Lourenço_01_06.SplashScreen1.resources
+C:\Users\SALA\Desktop\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.vbproj.GenerateResource.Cache
+C:\Users\SALA\Desktop\Lara Lourenço 01-06\Lara Lourenço 01-06\bin\Debug\Lara Lourenço 01-06.pdb
+C:\Users\SALA\Desktop\Lara Lourenço 01-06\Lara Lourenço 01-06\bin\Debug\Lara Lourenço 01-06.xml
+I:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\bin\Debug\Lara Lourenço 01-06.exe.config
+I:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.exe
+I:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.xml
+I:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.pdb
+J:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\bin\Debug\Lara Lourenço 01-06.exe.config
+J:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.exe
+J:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.xml
+J:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.pdb
+J:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\bin\Debug\Lara Lourenço 01-06.exe
+J:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\bin\Debug\Lara Lourenço 01-06.pdb
+J:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\bin\Debug\Lara Lourenço 01-06.xml
+J:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara_Lourenço_01_06.Form1.resources
+J:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara_Lourenço_01_06.Resources.resources
+J:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara_Lourenço_01_06.SplashScreen1.resources
+J:\LARA\Lara Lourenço 01-06\Lara Lourenço 01-06\obj\Debug\Lara Lourenço 01-06.vbproj.GenerateResource.Cache

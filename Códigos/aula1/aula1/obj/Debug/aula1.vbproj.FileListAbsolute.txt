@@ -1,0 +1,19 @@
+C:\Users\Etec\AppData\Local\Temporary Projects\aula1\bin\Debug\aula1.exe.config
+C:\Users\Etec\Documents\Visual Studio 2012\Projects\aula1\aula1\bin\Debug\aula1.exe.config
+C:\Users\Etec\Documents\Visual Studio 2012\Projects\aula1\aula1\bin\Debug\aula1.exe
+C:\Users\Etec\Documents\Visual Studio 2012\Projects\aula1\aula1\bin\Debug\aula1.pdb
+C:\Users\Etec\Documents\Visual Studio 2012\Projects\aula1\aula1\bin\Debug\aula1.xml
+C:\Users\Etec\Documents\Visual Studio 2012\Projects\aula1\aula1\obj\Debug\aula1.Form1.resources
+C:\Users\Etec\Documents\Visual Studio 2012\Projects\aula1\aula1\obj\Debug\aula1.Resources.resources
+C:\Users\Etec\Documents\Visual Studio 2012\Projects\aula1\aula1\obj\Debug\aula1.vbproj.GenerateResource.Cache
+C:\Users\Etec\Documents\Visual Studio 2012\Projects\aula1\aula1\obj\Debug\aula1.exe
+C:\Users\Etec\Documents\Visual Studio 2012\Projects\aula1\aula1\obj\Debug\aula1.xml
+C:\Users\Etec\Documents\Visual Studio 2012\Projects\aula1\aula1\obj\Debug\aula1.pdb
+J:\lara\LPOO\aula1\aula1\bin\Debug\aula1.exe.config
+J:\lara\LPOO\aula1\aula1\obj\Debug\aula1.exe
+J:\lara\LPOO\aula1\aula1\obj\Debug\aula1.xml
+J:\lara\LPOO\aula1\aula1\obj\Debug\aula1.pdb
+E:\lara\LPOO\aula1\aula1\bin\Debug\aula1.exe.config
+E:\lara\LPOO\aula1\aula1\obj\Debug\aula1.exe
+E:\lara\LPOO\aula1\aula1\obj\Debug\aula1.xml
+E:\lara\LPOO\aula1\aula1\obj\Debug\aula1.pdb

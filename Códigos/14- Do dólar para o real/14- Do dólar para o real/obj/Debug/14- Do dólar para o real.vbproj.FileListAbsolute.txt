@@ -1,0 +1,24 @@
+C:\Users\SALA\AppData\Local\Temporary Projects\14- Do dólar para o real\bin\Debug\14- Do dólar para o real.exe.config
+C:\Users\SALA\AppData\Local\Temporary Projects\14- Do dólar para o real\bin\Debug\14- Do dólar para o real.exe
+C:\Users\SALA\AppData\Local\Temporary Projects\14- Do dólar para o real\bin\Debug\14- Do dólar para o real.pdb
+C:\Users\SALA\AppData\Local\Temporary Projects\14- Do dólar para o real\bin\Debug\14- Do dólar para o real.xml
+C:\Users\SALA\AppData\Local\Temporary Projects\14- Do dólar para o real\obj\Debug\_14__Do_dólar_para_o_real.Form1.resources
+C:\Users\SALA\AppData\Local\Temporary Projects\14- Do dólar para o real\obj\Debug\_14__Do_dólar_para_o_real.Resources.resources
+C:\Users\SALA\AppData\Local\Temporary Projects\14- Do dólar para o real\obj\Debug\14- Do dólar para o real.vbproj.GenerateResource.Cache
+C:\Users\SALA\AppData\Local\Temporary Projects\14- Do dólar para o real\obj\Debug\14- Do dólar para o real.exe
+C:\Users\SALA\AppData\Local\Temporary Projects\14- Do dólar para o real\obj\Debug\14- Do dólar para o real.xml
+C:\Users\SALA\AppData\Local\Temporary Projects\14- Do dólar para o real\obj\Debug\14- Do dólar para o real.pdb
+C:\Users\SALA\Desktop\14- Do dólar para o real\14- Do dólar para o real\bin\Debug\14- Do dólar para o real.exe.config
+C:\Users\SALA\Desktop\14- Do dólar para o real\14- Do dólar para o real\obj\Debug\14- Do dólar para o real.exe
+C:\Users\SALA\Desktop\14- Do dólar para o real\14- Do dólar para o real\obj\Debug\14- Do dólar para o real.xml
+C:\Users\SALA\Desktop\14- Do dólar para o real\14- Do dólar para o real\obj\Debug\14- Do dólar para o real.pdb
+I:\lara\LPOO\14- Do dólar para o real\14- Do dólar para o real\bin\Debug\14- Do dólar para o real.exe.config
+I:\lara\LPOO\14- Do dólar para o real\14- Do dólar para o real\obj\Debug\14- Do dólar para o real.exe
+I:\lara\LPOO\14- Do dólar para o real\14- Do dólar para o real\obj\Debug\14- Do dólar para o real.xml
+I:\lara\LPOO\14- Do dólar para o real\14- Do dólar para o real\obj\Debug\14- Do dólar para o real.pdb
+I:\lara\LPOO\14- Do dólar para o real\14- Do dólar para o real\bin\Debug\14- Do dólar para o real.exe
+I:\lara\LPOO\14- Do dólar para o real\14- Do dólar para o real\bin\Debug\14- Do dólar para o real.pdb
+I:\lara\LPOO\14- Do dólar para o real\14- Do dólar para o real\bin\Debug\14- Do dólar para o real.xml
+I:\lara\LPOO\14- Do dólar para o real\14- Do dólar para o real\obj\Debug\_14__Do_dólar_para_o_real.Form1.resources
+I:\lara\LPOO\14- Do dólar para o real\14- Do dólar para o real\obj\Debug\_14__Do_dólar_para_o_real.Resources.resources
+I:\lara\LPOO\14- Do dólar para o real\14- Do dólar para o real\obj\Debug\14- Do dólar para o real.vbproj.GenerateResource.Cache

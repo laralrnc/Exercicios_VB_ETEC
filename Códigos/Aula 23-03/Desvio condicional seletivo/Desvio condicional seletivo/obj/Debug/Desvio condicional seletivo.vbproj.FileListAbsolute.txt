@@ -1,0 +1,32 @@
+C:\Users\Informática\AppData\Local\Temporary Projects\Desvio condicional seletivo\bin\Debug\Desvio condicional seletivo.exe.config
+C:\Users\Informática\AppData\Local\Temporary Projects\Desvio condicional seletivo\bin\Debug\Desvio condicional seletivo.exe
+C:\Users\Informática\AppData\Local\Temporary Projects\Desvio condicional seletivo\bin\Debug\Desvio condicional seletivo.pdb
+C:\Users\Informática\AppData\Local\Temporary Projects\Desvio condicional seletivo\bin\Debug\Desvio condicional seletivo.xml
+C:\Users\Informática\AppData\Local\Temporary Projects\Desvio condicional seletivo\obj\Debug\Desvio_condicional_seletivo.Form1.resources
+C:\Users\Informática\AppData\Local\Temporary Projects\Desvio condicional seletivo\obj\Debug\Desvio_condicional_seletivo.Resources.resources
+C:\Users\Informática\AppData\Local\Temporary Projects\Desvio condicional seletivo\obj\Debug\Desvio condicional seletivo.vbproj.GenerateResource.Cache
+C:\Users\Informática\AppData\Local\Temporary Projects\Desvio condicional seletivo\obj\Debug\Desvio condicional seletivo.exe
+C:\Users\Informática\AppData\Local\Temporary Projects\Desvio condicional seletivo\obj\Debug\Desvio condicional seletivo.xml
+C:\Users\Informática\AppData\Local\Temporary Projects\Desvio condicional seletivo\obj\Debug\Desvio condicional seletivo.pdb
+C:\Users\Informática\AppData\Local\Temporary Projects\Desvio condicional seletivo\obj\Debug\Desvio_condicional_seletivo.Form2.resources
+C:\Users\Informática\AppData\Local\Temporary Projects\Desvio condicional seletivo\obj\Debug\Desvio_condicional_seletivo.Form3.resources
+C:\Users\Informática\AppData\Local\Temporary Projects\Desvio condicional seletivo\obj\Debug\Desvio_condicional_seletivo.Form4.resources
+C:\Users\Informática\AppData\Local\Temporary Projects\Desvio condicional seletivo\obj\Debug\Desvio_condicional_seletivo.Form5.resources
+I:\lara\LPOO\Aula 23-03\Desvio condicional seletivo\Desvio condicional seletivo\bin\Debug\Desvio condicional seletivo.exe.config
+I:\lara\LPOO\Aula 23-03\Desvio condicional seletivo\Desvio condicional seletivo\obj\Debug\Desvio condicional seletivo.exe
+I:\lara\LPOO\Aula 23-03\Desvio condicional seletivo\Desvio condicional seletivo\obj\Debug\Desvio condicional seletivo.xml
+I:\lara\LPOO\Aula 23-03\Desvio condicional seletivo\Desvio condicional seletivo\obj\Debug\Desvio condicional seletivo.pdb
+I:\lara\LPOO\Aula 23-03\Desvio condicional seletivo\Desvio condicional seletivo\bin\Debug\Desvio condicional seletivo.exe
+I:\lara\LPOO\Aula 23-03\Desvio condicional seletivo\Desvio condicional seletivo\bin\Debug\Desvio condicional seletivo.pdb
+I:\lara\LPOO\Aula 23-03\Desvio condicional seletivo\Desvio condicional seletivo\bin\Debug\Desvio condicional seletivo.xml
+I:\lara\LPOO\Aula 23-03\Desvio condicional seletivo\Desvio condicional seletivo\obj\Debug\Desvio_condicional_seletivo.Form1.resources
+I:\lara\LPOO\Aula 23-03\Desvio condicional seletivo\Desvio condicional seletivo\obj\Debug\Desvio_condicional_seletivo.Form2.resources
+I:\lara\LPOO\Aula 23-03\Desvio condicional seletivo\Desvio condicional seletivo\obj\Debug\Desvio_condicional_seletivo.Form3.resources
+I:\lara\LPOO\Aula 23-03\Desvio condicional seletivo\Desvio condicional seletivo\obj\Debug\Desvio_condicional_seletivo.Form4.resources
+I:\lara\LPOO\Aula 23-03\Desvio condicional seletivo\Desvio condicional seletivo\obj\Debug\Desvio_condicional_seletivo.Form5.resources
+I:\lara\LPOO\Aula 23-03\Desvio condicional seletivo\Desvio condicional seletivo\obj\Debug\Desvio_condicional_seletivo.Resources.resources
+I:\lara\LPOO\Aula 23-03\Desvio condicional seletivo\Desvio condicional seletivo\obj\Debug\Desvio condicional seletivo.vbproj.GenerateResource.Cache
+E:\LARA\LPOO\PRIMEIRO SEMESTRE\Aula 23-03\Desvio condicional seletivo\Desvio condicional seletivo\bin\Debug\Desvio condicional seletivo.exe.config
+E:\LARA\LPOO\PRIMEIRO SEMESTRE\Aula 23-03\Desvio condicional seletivo\Desvio condicional seletivo\obj\Debug\Desvio condicional seletivo.exe
+E:\LARA\LPOO\PRIMEIRO SEMESTRE\Aula 23-03\Desvio condicional seletivo\Desvio condicional seletivo\obj\Debug\Desvio condicional seletivo.xml
+E:\LARA\LPOO\PRIMEIRO SEMESTRE\Aula 23-03\Desvio condicional seletivo\Desvio condicional seletivo\obj\Debug\Desvio condicional seletivo.pdb

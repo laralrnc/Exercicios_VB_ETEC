@@ -1,0 +1,24 @@
+C:\Users\SALA\AppData\Local\Temporary Projects\15- Loja Lero-Lero\bin\Debug\15- Loja Lero-Lero.exe.config
+C:\Users\SALA\AppData\Local\Temporary Projects\15- Loja Lero-Lero\bin\Debug\15- Loja Lero-Lero.exe
+C:\Users\SALA\AppData\Local\Temporary Projects\15- Loja Lero-Lero\bin\Debug\15- Loja Lero-Lero.pdb
+C:\Users\SALA\AppData\Local\Temporary Projects\15- Loja Lero-Lero\bin\Debug\15- Loja Lero-Lero.xml
+C:\Users\SALA\AppData\Local\Temporary Projects\15- Loja Lero-Lero\obj\Debug\_15__Loja_Lero_Lero.Form1.resources
+C:\Users\SALA\AppData\Local\Temporary Projects\15- Loja Lero-Lero\obj\Debug\_15__Loja_Lero_Lero.Resources.resources
+C:\Users\SALA\AppData\Local\Temporary Projects\15- Loja Lero-Lero\obj\Debug\15- Loja Lero-Lero.vbproj.GenerateResource.Cache
+C:\Users\SALA\AppData\Local\Temporary Projects\15- Loja Lero-Lero\obj\Debug\15- Loja Lero-Lero.exe
+C:\Users\SALA\AppData\Local\Temporary Projects\15- Loja Lero-Lero\obj\Debug\15- Loja Lero-Lero.xml
+C:\Users\SALA\AppData\Local\Temporary Projects\15- Loja Lero-Lero\obj\Debug\15- Loja Lero-Lero.pdb
+C:\Users\SALA\Desktop\15- Loja Lero-Lero\15- Loja Lero-Lero\bin\Debug\15- Loja Lero-Lero.exe.config
+C:\Users\SALA\Desktop\15- Loja Lero-Lero\15- Loja Lero-Lero\obj\Debug\15- Loja Lero-Lero.exe
+C:\Users\SALA\Desktop\15- Loja Lero-Lero\15- Loja Lero-Lero\obj\Debug\15- Loja Lero-Lero.xml
+C:\Users\SALA\Desktop\15- Loja Lero-Lero\15- Loja Lero-Lero\obj\Debug\15- Loja Lero-Lero.pdb
+I:\lara\LPOO\15- Loja Lero-Lero\15- Loja Lero-Lero\bin\Debug\15- Loja Lero-Lero.exe.config
+I:\lara\LPOO\15- Loja Lero-Lero\15- Loja Lero-Lero\obj\Debug\15- Loja Lero-Lero.exe
+I:\lara\LPOO\15- Loja Lero-Lero\15- Loja Lero-Lero\obj\Debug\15- Loja Lero-Lero.xml
+I:\lara\LPOO\15- Loja Lero-Lero\15- Loja Lero-Lero\obj\Debug\15- Loja Lero-Lero.pdb
+I:\lara\LPOO\15- Loja Lero-Lero\15- Loja Lero-Lero\bin\Debug\15- Loja Lero-Lero.exe
+I:\lara\LPOO\15- Loja Lero-Lero\15- Loja Lero-Lero\bin\Debug\15- Loja Lero-Lero.pdb
+I:\lara\LPOO\15- Loja Lero-Lero\15- Loja Lero-Lero\bin\Debug\15- Loja Lero-Lero.xml
+I:\lara\LPOO\15- Loja Lero-Lero\15- Loja Lero-Lero\obj\Debug\_15__Loja_Lero_Lero.Form1.resources
+I:\lara\LPOO\15- Loja Lero-Lero\15- Loja Lero-Lero\obj\Debug\_15__Loja_Lero_Lero.Resources.resources
+I:\lara\LPOO\15- Loja Lero-Lero\15- Loja Lero-Lero\obj\Debug\15- Loja Lero-Lero.vbproj.GenerateResource.Cache

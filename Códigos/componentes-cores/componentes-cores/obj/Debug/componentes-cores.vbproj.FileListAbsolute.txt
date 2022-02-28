@@ -1,0 +1,27 @@
+C:\Users\Administração\AppData\Local\Temporary Projects\componentes-cores\bin\Debug\componentes-cores.exe.config
+C:\Users\Administração\AppData\Local\Temporary Projects\componentes-cores\bin\Debug\componentes-cores.exe
+C:\Users\Administração\AppData\Local\Temporary Projects\componentes-cores\bin\Debug\componentes-cores.pdb
+C:\Users\Administração\AppData\Local\Temporary Projects\componentes-cores\bin\Debug\componentes-cores.xml
+C:\Users\Administração\AppData\Local\Temporary Projects\componentes-cores\obj\Debug\componentes_cores.Form1.resources
+C:\Users\Administração\AppData\Local\Temporary Projects\componentes-cores\obj\Debug\componentes_cores.Resources.resources
+C:\Users\Administração\AppData\Local\Temporary Projects\componentes-cores\obj\Debug\componentes-cores.vbproj.GenerateResource.Cache
+C:\Users\Administração\AppData\Local\Temporary Projects\componentes-cores\obj\Debug\componentes-cores.exe
+C:\Users\Administração\AppData\Local\Temporary Projects\componentes-cores\obj\Debug\componentes-cores.xml
+C:\Users\Administração\AppData\Local\Temporary Projects\componentes-cores\obj\Debug\componentes-cores.pdb
+C:\Users\Administração\AppData\Local\Temporary Projects\componentes-cores\obj\Debug\componentes_cores.Form2.resources
+C:\Users\Administração\AppData\Local\Temporary Projects\componentes-cores\obj\Debug\componentes_cores.Form3.resources
+C:\Users\Administração\AppData\Local\Temporary Projects\componentes-cores\obj\Debug\componentes_cores.Form4.resources
+E:\LARA\LPOO\componentes-cores\componentes-cores\bin\Debug\componentes-cores.exe.config
+E:\LARA\LPOO\componentes-cores\componentes-cores\obj\Debug\componentes-cores.exe
+E:\LARA\LPOO\componentes-cores\componentes-cores\obj\Debug\componentes-cores.xml
+E:\LARA\LPOO\componentes-cores\componentes-cores\obj\Debug\componentes-cores.pdb
+E:\LARA\LPOO\componentes-cores\componentes-cores\bin\Debug\componentes-cores.exe
+E:\LARA\LPOO\componentes-cores\componentes-cores\bin\Debug\componentes-cores.pdb
+E:\LARA\LPOO\componentes-cores\componentes-cores\bin\Debug\componentes-cores.xml
+E:\LARA\LPOO\componentes-cores\componentes-cores\obj\Debug\componentes_cores.Form1.resources
+E:\LARA\LPOO\componentes-cores\componentes-cores\obj\Debug\componentes_cores.Form2.resources
+E:\LARA\LPOO\componentes-cores\componentes-cores\obj\Debug\componentes_cores.Form3.resources
+E:\LARA\LPOO\componentes-cores\componentes-cores\obj\Debug\componentes_cores.Form4.resources
+E:\LARA\LPOO\componentes-cores\componentes-cores\obj\Debug\componentes_cores.Form5.resources
+E:\LARA\LPOO\componentes-cores\componentes-cores\obj\Debug\componentes_cores.Resources.resources
+E:\LARA\LPOO\componentes-cores\componentes-cores\obj\Debug\componentes-cores.vbproj.GenerateResource.Cache

@@ -1,0 +1,34 @@
+C:\Users\Informática\AppData\Local\Temporary Projects\2- Três valores divididos por 2\bin\Debug\2- Três valores divididos por 2.exe.config
+C:\Users\Informática\AppData\Local\Temporary Projects\2- Três valores divididos por 2\bin\Debug\2- Três valores divididos por 2.exe
+C:\Users\Informática\AppData\Local\Temporary Projects\2- Três valores divididos por 2\bin\Debug\2- Três valores divididos por 2.pdb
+C:\Users\Informática\AppData\Local\Temporary Projects\2- Três valores divididos por 2\bin\Debug\2- Três valores divididos por 2.xml
+C:\Users\Informática\AppData\Local\Temporary Projects\2- Três valores divididos por 2\obj\Debug\_2__Três_valores_divididos_por_2.Form1.resources
+C:\Users\Informática\AppData\Local\Temporary Projects\2- Três valores divididos por 2\obj\Debug\_2__Três_valores_divididos_por_2.Resources.resources
+C:\Users\Informática\AppData\Local\Temporary Projects\2- Três valores divididos por 2\obj\Debug\2- Três valores divididos por 2.vbproj.GenerateResource.Cache
+C:\Users\Informática\AppData\Local\Temporary Projects\2- Três valores divididos por 2\obj\Debug\2- Três valores divididos por 2.exe
+C:\Users\Informática\AppData\Local\Temporary Projects\2- Três valores divididos por 2\obj\Debug\2- Três valores divididos por 2.xml
+C:\Users\Informática\AppData\Local\Temporary Projects\2- Três valores divididos por 2\obj\Debug\2- Três valores divididos por 2.pdb
+F:\lara\LPOO\2- Três valores divididos por 2\2- Três valores divididos por 2\bin\Debug\2- Três valores divididos por 2.exe.config
+F:\lara\LPOO\2- Três valores divididos por 2\2- Três valores divididos por 2\obj\Debug\2- Três valores divididos por 2.exe
+F:\lara\LPOO\2- Três valores divididos por 2\2- Três valores divididos por 2\obj\Debug\2- Três valores divididos por 2.xml
+F:\lara\LPOO\2- Três valores divididos por 2\2- Três valores divididos por 2\obj\Debug\2- Três valores divididos por 2.pdb
+F:\lara\LPOO\2- Três valores divididos por 2\2- Três valores divididos por 2\bin\Debug\2- Três valores divididos por 2.exe
+F:\lara\LPOO\2- Três valores divididos por 2\2- Três valores divididos por 2\bin\Debug\2- Três valores divididos por 2.pdb
+F:\lara\LPOO\2- Três valores divididos por 2\2- Três valores divididos por 2\bin\Debug\2- Três valores divididos por 2.xml
+F:\lara\LPOO\2- Três valores divididos por 2\2- Três valores divididos por 2\obj\Debug\_2__Três_valores_divididos_por_2.Form1.resources
+F:\lara\LPOO\2- Três valores divididos por 2\2- Três valores divididos por 2\obj\Debug\_2__Três_valores_divididos_por_2.Resources.resources
+F:\lara\LPOO\2- Três valores divididos por 2\2- Três valores divididos por 2\obj\Debug\2- Três valores divididos por 2.vbproj.GenerateResource.Cache
+E:\lara\LPOO\2- Três valores divididos por 2\2- Três valores divididos por 2\bin\Debug\2- Três valores divididos por 2.exe.config
+E:\lara\LPOO\2- Três valores divididos por 2\2- Três valores divididos por 2\obj\Debug\2- Três valores divididos por 2.exe
+E:\lara\LPOO\2- Três valores divididos por 2\2- Três valores divididos por 2\obj\Debug\2- Três valores divididos por 2.xml
+E:\lara\LPOO\2- Três valores divididos por 2\2- Três valores divididos por 2\obj\Debug\2- Três valores divididos por 2.pdb
+I:\lara\LPOO\2- Três valores divididos por 2\2- Três valores divididos por 2\bin\Debug\2- Três valores divididos por 2.exe.config
+I:\lara\LPOO\2- Três valores divididos por 2\2- Três valores divididos por 2\obj\Debug\2- Três valores divididos por 2.exe
+I:\lara\LPOO\2- Três valores divididos por 2\2- Três valores divididos por 2\obj\Debug\2- Três valores divididos por 2.xml
+I:\lara\LPOO\2- Três valores divididos por 2\2- Três valores divididos por 2\obj\Debug\2- Três valores divididos por 2.pdb
+I:\lara\LPOO\2- Três valores divididos por 2\2- Três valores divididos por 2\bin\Debug\2- Três valores divididos por 2.exe
+I:\lara\LPOO\2- Três valores divididos por 2\2- Três valores divididos por 2\bin\Debug\2- Três valores divididos por 2.pdb
+I:\lara\LPOO\2- Três valores divididos por 2\2- Três valores divididos por 2\bin\Debug\2- Três valores divididos por 2.xml
+I:\lara\LPOO\2- Três valores divididos por 2\2- Três valores divididos por 2\obj\Debug\_2__Três_valores_divididos_por_2.Form1.resources
+I:\lara\LPOO\2- Três valores divididos por 2\2- Três valores divididos por 2\obj\Debug\_2__Três_valores_divididos_por_2.Resources.resources
+I:\lara\LPOO\2- Três valores divididos por 2\2- Três valores divididos por 2\obj\Debug\2- Três valores divididos por 2.vbproj.GenerateResource.Cache

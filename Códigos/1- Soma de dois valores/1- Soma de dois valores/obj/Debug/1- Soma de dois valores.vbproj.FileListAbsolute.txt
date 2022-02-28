@@ -1,0 +1,11 @@
+C:\Users\Informática\AppData\Local\Temporary Projects\1- Soma de dois valores\bin\Debug\1- Soma de dois valores.exe.config
+F:\lara\LPOO\1- Soma de dois valores\1- Soma de dois valores\bin\Debug\1- Soma de dois valores.exe.config
+F:\lara\LPOO\1- Soma de dois valores\1- Soma de dois valores\obj\Debug\_1__Soma_de_dois_valores.Form1.resources
+F:\lara\LPOO\1- Soma de dois valores\1- Soma de dois valores\obj\Debug\_1__Soma_de_dois_valores.Resources.resources
+F:\lara\LPOO\1- Soma de dois valores\1- Soma de dois valores\obj\Debug\1- Soma de dois valores.vbproj.GenerateResource.Cache
+F:\lara\LPOO\1- Soma de dois valores\1- Soma de dois valores\bin\Debug\1- Soma de dois valores.exe
+F:\lara\LPOO\1- Soma de dois valores\1- Soma de dois valores\bin\Debug\1- Soma de dois valores.pdb
+F:\lara\LPOO\1- Soma de dois valores\1- Soma de dois valores\bin\Debug\1- Soma de dois valores.xml
+F:\lara\LPOO\1- Soma de dois valores\1- Soma de dois valores\obj\Debug\1- Soma de dois valores.exe
+F:\lara\LPOO\1- Soma de dois valores\1- Soma de dois valores\obj\Debug\1- Soma de dois valores.xml
+F:\lara\LPOO\1- Soma de dois valores\1- Soma de dois valores\obj\Debug\1- Soma de dois valores.pdb

@@ -1,0 +1,21 @@
+C:\Users\LAB01-ETECJA\Desktop\8-media de 5 alunos\8-media de 5 alunos\bin\Debug\8-media de 5 alunos.exe.config
+E:\lara\LPOO\8-media de 5 alunos\8-media de 5 alunos\bin\Debug\8-media de 5 alunos.exe.config
+E:\lara\LPOO\8-media de 5 alunos\8-media de 5 alunos\bin\Debug\8-media de 5 alunos.exe
+E:\lara\LPOO\8-media de 5 alunos\8-media de 5 alunos\bin\Debug\8-media de 5 alunos.pdb
+E:\lara\LPOO\8-media de 5 alunos\8-media de 5 alunos\bin\Debug\8-media de 5 alunos.xml
+E:\lara\LPOO\8-media de 5 alunos\8-media de 5 alunos\obj\Debug\_8_media_de_5_alunos.Form1.resources
+E:\lara\LPOO\8-media de 5 alunos\8-media de 5 alunos\obj\Debug\_8_media_de_5_alunos.Resources.resources
+E:\lara\LPOO\8-media de 5 alunos\8-media de 5 alunos\obj\Debug\8-media de 5 alunos.vbproj.GenerateResource.Cache
+E:\lara\LPOO\8-media de 5 alunos\8-media de 5 alunos\obj\Debug\8-media de 5 alunos.exe
+E:\lara\LPOO\8-media de 5 alunos\8-media de 5 alunos\obj\Debug\8-media de 5 alunos.xml
+E:\lara\LPOO\8-media de 5 alunos\8-media de 5 alunos\obj\Debug\8-media de 5 alunos.pdb
+I:\lara\LPOO\8-media de 5 alunos\8-media de 5 alunos\bin\Debug\8-media de 5 alunos.exe.config
+I:\lara\LPOO\8-media de 5 alunos\8-media de 5 alunos\obj\Debug\8-media de 5 alunos.exe
+I:\lara\LPOO\8-media de 5 alunos\8-media de 5 alunos\obj\Debug\8-media de 5 alunos.xml
+I:\lara\LPOO\8-media de 5 alunos\8-media de 5 alunos\obj\Debug\8-media de 5 alunos.pdb
+I:\lara\LPOO\8-media de 5 alunos\8-media de 5 alunos\bin\Debug\8-media de 5 alunos.exe
+I:\lara\LPOO\8-media de 5 alunos\8-media de 5 alunos\bin\Debug\8-media de 5 alunos.pdb
+I:\lara\LPOO\8-media de 5 alunos\8-media de 5 alunos\bin\Debug\8-media de 5 alunos.xml
+I:\lara\LPOO\8-media de 5 alunos\8-media de 5 alunos\obj\Debug\_8_media_de_5_alunos.Form1.resources
+I:\lara\LPOO\8-media de 5 alunos\8-media de 5 alunos\obj\Debug\_8_media_de_5_alunos.Resources.resources
+I:\lara\LPOO\8-media de 5 alunos\8-media de 5 alunos\obj\Debug\8-media de 5 alunos.vbproj.GenerateResource.Cache

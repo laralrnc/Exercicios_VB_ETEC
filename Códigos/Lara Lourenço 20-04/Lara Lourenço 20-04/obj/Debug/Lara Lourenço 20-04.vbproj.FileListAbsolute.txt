@@ -1,0 +1,73 @@
+C:\Users\Etec\AppData\Local\Temporary Projects\Lara Lourenço 20-04\bin\Debug\Lara Lourenço 20-04.exe.config
+C:\Users\Etec\Desktop\Lara Lourenço 20-04\Lara Lourenço 20-04\bin\Debug\Lara Lourenço 20-04.exe.config
+C:\Users\Etec\Desktop\Lara Lourenço 20-04\Lara Lourenço 20-04\bin\Debug\Lara Lourenço 20-04.exe
+C:\Users\Etec\Desktop\Lara Lourenço 20-04\Lara Lourenço 20-04\bin\Debug\Lara Lourenço 20-04.pdb
+C:\Users\Etec\Desktop\Lara Lourenço 20-04\Lara Lourenço 20-04\bin\Debug\Lara Lourenço 20-04.xml
+C:\Users\Etec\Desktop\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form1.resources
+C:\Users\Etec\Desktop\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Resources.resources
+C:\Users\Etec\Desktop\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara Lourenço 20-04.vbproj.GenerateResource.Cache
+C:\Users\Etec\Desktop\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara Lourenço 20-04.exe
+C:\Users\Etec\Desktop\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara Lourenço 20-04.xml
+C:\Users\Etec\Desktop\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara Lourenço 20-04.pdb
+C:\Users\Etec\Desktop\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form2.resources
+C:\Users\Etec\Desktop\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form3.resources
+C:\Users\Etec\Desktop\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form4.resources
+C:\Users\Etec\Desktop\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form5.resources
+E:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\bin\Debug\Lara Lourenço 20-04.exe.config
+E:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara Lourenço 20-04.exe
+E:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara Lourenço 20-04.xml
+E:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara Lourenço 20-04.pdb
+E:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\bin\Debug\Lara Lourenço 20-04.exe
+E:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\bin\Debug\Lara Lourenço 20-04.pdb
+E:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\bin\Debug\Lara Lourenço 20-04.xml
+E:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form1.resources
+E:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form2.resources
+E:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form3.resources
+E:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form4.resources
+E:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form5.resources
+E:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Resources.resources
+E:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara Lourenço 20-04.vbproj.GenerateResource.Cache
+F:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\bin\Debug\Lara Lourenço 20-04.exe.config
+F:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara Lourenço 20-04.exe
+F:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara Lourenço 20-04.xml
+F:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara Lourenço 20-04.pdb
+F:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\bin\Debug\Lara Lourenço 20-04.exe
+F:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\bin\Debug\Lara Lourenço 20-04.pdb
+F:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\bin\Debug\Lara Lourenço 20-04.xml
+F:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form1.resources
+F:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form2.resources
+F:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form3.resources
+F:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form4.resources
+F:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form5.resources
+F:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Resources.resources
+F:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara Lourenço 20-04.vbproj.GenerateResource.Cache
+E:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form6.resources
+E:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form7.resources
+E:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form8.resources
+E:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form9.resources
+C:\Users\SALA\Desktop\Lara Lourenço 20-04\Lara Lourenço 20-04\bin\Debug\Lara Lourenço 20-04.exe.config
+C:\Users\SALA\Desktop\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara Lourenço 20-04.exe
+C:\Users\SALA\Desktop\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara Lourenço 20-04.xml
+C:\Users\SALA\Desktop\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara Lourenço 20-04.pdb
+I:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\bin\Debug\Lara Lourenço 20-04.exe.config
+I:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara Lourenço 20-04.exe
+I:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara Lourenço 20-04.xml
+I:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara Lourenço 20-04.pdb
+I:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\bin\Debug\Lara Lourenço 20-04.exe
+I:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\bin\Debug\Lara Lourenço 20-04.pdb
+I:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\bin\Debug\Lara Lourenço 20-04.xml
+I:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form1.resources
+I:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form2.resources
+I:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form3.resources
+I:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form4.resources
+I:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form5.resources
+I:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form6.resources
+I:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form7.resources
+I:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form8.resources
+I:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form9.resources
+I:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Resources.resources
+I:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara Lourenço 20-04.vbproj.GenerateResource.Cache
+F:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form6.resources
+F:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form7.resources
+F:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form8.resources
+F:\LARA\LPOO\Lara Lourenço 20-04\Lara Lourenço 20-04\obj\Debug\Lara_Lourenço_20_04.Form9.resources

@@ -1,0 +1,38 @@
+C:\Users\Etec\AppData\Local\Temporary Projects\aula1b\bin\Debug\aula1b.exe.config
+C:\Users\Etec\AppData\Local\Temporary Projects\aula1b\bin\Debug\aula1b.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\aula1b\bin\Debug\aula1b.pdb
+C:\Users\Etec\AppData\Local\Temporary Projects\aula1b\bin\Debug\aula1b.xml
+C:\Users\Etec\AppData\Local\Temporary Projects\aula1b\obj\Debug\aula1b.Form1.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\aula1b\obj\Debug\aula1b.Resources.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\aula1b\obj\Debug\aula1b.vbproj.GenerateResource.Cache
+C:\Users\Etec\AppData\Local\Temporary Projects\aula1b\obj\Debug\aula1b.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\aula1b\obj\Debug\aula1b.xml
+C:\Users\Etec\AppData\Local\Temporary Projects\aula1b\obj\Debug\aula1b.pdb
+C:\Users\Etec\Documents\Visual Studio 2012\Projects\aula1b\aula1b\bin\Debug\aula1b.exe.config
+C:\Users\Etec\Documents\Visual Studio 2012\Projects\aula1b\aula1b\obj\Debug\aula1b.exe
+C:\Users\Etec\Documents\Visual Studio 2012\Projects\aula1b\aula1b\obj\Debug\aula1b.xml
+C:\Users\Etec\Documents\Visual Studio 2012\Projects\aula1b\aula1b\obj\Debug\aula1b.pdb
+J:\lara\LPOO\aula1b\aula1b\bin\Debug\aula1b.exe.config
+J:\lara\LPOO\aula1b\aula1b\obj\Debug\aula1b.exe
+J:\lara\LPOO\aula1b\aula1b\obj\Debug\aula1b.xml
+J:\lara\LPOO\aula1b\aula1b\obj\Debug\aula1b.pdb
+K:\lara\LPOO\aula1b\aula1b\bin\Debug\aula1b.exe.config
+K:\lara\LPOO\aula1b\aula1b\obj\Debug\aula1b.exe
+K:\lara\LPOO\aula1b\aula1b\obj\Debug\aula1b.xml
+K:\lara\LPOO\aula1b\aula1b\obj\Debug\aula1b.pdb
+K:\lara\LPOO\aula1b\aula1b\bin\Debug\aula1b.exe
+K:\lara\LPOO\aula1b\aula1b\bin\Debug\aula1b.pdb
+K:\lara\LPOO\aula1b\aula1b\bin\Debug\aula1b.xml
+K:\lara\LPOO\aula1b\aula1b\obj\Debug\aula1b.Form1.resources
+K:\lara\LPOO\aula1b\aula1b\obj\Debug\aula1b.Resources.resources
+K:\lara\LPOO\aula1b\aula1b\obj\Debug\aula1b.vbproj.GenerateResource.Cache
+E:\lara\LPOO\aula1b\aula1b\bin\Debug\aula1b.exe.config
+E:\lara\LPOO\aula1b\aula1b\obj\Debug\aula1b.exe
+E:\lara\LPOO\aula1b\aula1b\obj\Debug\aula1b.xml
+E:\lara\LPOO\aula1b\aula1b\obj\Debug\aula1b.pdb
+E:\lara\LPOO\aula1b\aula1b\bin\Debug\aula1b.exe
+E:\lara\LPOO\aula1b\aula1b\bin\Debug\aula1b.pdb
+E:\lara\LPOO\aula1b\aula1b\bin\Debug\aula1b.xml
+E:\lara\LPOO\aula1b\aula1b\obj\Debug\aula1b.Form1.resources
+E:\lara\LPOO\aula1b\aula1b\obj\Debug\aula1b.Resources.resources
+E:\lara\LPOO\aula1b\aula1b\obj\Debug\aula1b.vbproj.GenerateResource.Cache

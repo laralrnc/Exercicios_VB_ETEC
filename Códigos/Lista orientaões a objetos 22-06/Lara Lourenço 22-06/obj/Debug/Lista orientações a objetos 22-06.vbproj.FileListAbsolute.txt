@@ -1,0 +1,11 @@
+C:\Users\Etec\AppData\Local\Temporary Projects\Lista orientações a objetos 22-06\bin\Debug\Lista orientações a objetos 22-06.exe.config
+C:\Users\Etec\AppData\Local\Temporary Projects\Lista orientações a objetos 22-06\bin\Debug\Lista orientações a objetos 22-06.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\Lista orientações a objetos 22-06\bin\Debug\Lista orientações a objetos 22-06.pdb
+C:\Users\Etec\AppData\Local\Temporary Projects\Lista orientações a objetos 22-06\bin\Debug\Lista orientações a objetos 22-06.xml
+C:\Users\Etec\AppData\Local\Temporary Projects\Lista orientações a objetos 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form1.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\Lista orientações a objetos 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Resources.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\Lista orientações a objetos 22-06\obj\Debug\Lista orientações a objetos 22-06.vbproj.GenerateResource.Cache
+C:\Users\Etec\AppData\Local\Temporary Projects\Lista orientações a objetos 22-06\obj\Debug\Lista orientações a objetos 22-06.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\Lista orientações a objetos 22-06\obj\Debug\Lista orientações a objetos 22-06.xml
+C:\Users\Etec\AppData\Local\Temporary Projects\Lista orientações a objetos 22-06\obj\Debug\Lista orientações a objetos 22-06.pdb
+C:\Users\Etec\AppData\Local\Temporary Projects\Lista orientações a objetos 22-06\obj\Debug\Lista_orientações_a_objetos_22_06.Form2.resources

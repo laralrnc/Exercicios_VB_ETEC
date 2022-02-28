@@ -1,0 +1,19 @@
+C:\Users\Informática\AppData\Local\Temporary Projects\desvio seletivo\bin\Debug\desvio seletivo.exe.config
+C:\Users\Informática\AppData\Local\Temporary Projects\desvio seletivo\bin\Debug\desvio seletivo.exe
+C:\Users\Informática\AppData\Local\Temporary Projects\desvio seletivo\bin\Debug\desvio seletivo.pdb
+C:\Users\Informática\AppData\Local\Temporary Projects\desvio seletivo\bin\Debug\desvio seletivo.xml
+C:\Users\Informática\AppData\Local\Temporary Projects\desvio seletivo\obj\Debug\desvio_seletivo.Form1.resources
+C:\Users\Informática\AppData\Local\Temporary Projects\desvio seletivo\obj\Debug\desvio_seletivo.Form2.resources
+C:\Users\Informática\AppData\Local\Temporary Projects\desvio seletivo\obj\Debug\desvio_seletivo.Resources.resources
+C:\Users\Informática\AppData\Local\Temporary Projects\desvio seletivo\obj\Debug\desvio seletivo.vbproj.GenerateResource.Cache
+C:\Users\Informática\AppData\Local\Temporary Projects\desvio seletivo\obj\Debug\desvio seletivo.exe
+C:\Users\Informática\AppData\Local\Temporary Projects\desvio seletivo\obj\Debug\desvio seletivo.xml
+C:\Users\Informática\AppData\Local\Temporary Projects\desvio seletivo\obj\Debug\desvio seletivo.pdb
+I:\lara\LPOO\Aula 23-03\desvio seletivo\desvio seletivo\bin\Debug\desvio seletivo.exe.config
+I:\lara\LPOO\Aula 23-03\desvio seletivo\desvio seletivo\obj\Debug\desvio seletivo.exe
+I:\lara\LPOO\Aula 23-03\desvio seletivo\desvio seletivo\obj\Debug\desvio seletivo.xml
+I:\lara\LPOO\Aula 23-03\desvio seletivo\desvio seletivo\obj\Debug\desvio seletivo.pdb
+E:\LARA\LPOO\PRIMEIRO SEMESTRE\Aula 23-03\desvio seletivo\desvio seletivo\bin\Debug\desvio seletivo.exe.config
+E:\LARA\LPOO\PRIMEIRO SEMESTRE\Aula 23-03\desvio seletivo\desvio seletivo\obj\Debug\desvio seletivo.exe
+E:\LARA\LPOO\PRIMEIRO SEMESTRE\Aula 23-03\desvio seletivo\desvio seletivo\obj\Debug\desvio seletivo.xml
+E:\LARA\LPOO\PRIMEIRO SEMESTRE\Aula 23-03\desvio seletivo\desvio seletivo\obj\Debug\desvio seletivo.pdb

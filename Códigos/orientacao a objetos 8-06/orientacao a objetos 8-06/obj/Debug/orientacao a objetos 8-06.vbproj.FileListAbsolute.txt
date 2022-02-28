@@ -1,0 +1,15 @@
+C:\Users\Etec\AppData\Local\Temporary Projects\orientacao a objetos 8-06\bin\Debug\orientacao a objetos 8-06.exe.config
+C:\Users\Etec\Desktop\orientacao a objetos 8-06\orientacao a objetos 8-06\bin\Debug\orientacao a objetos 8-06.exe.config
+C:\Users\Etec\Desktop\orientacao a objetos 8-06\orientacao a objetos 8-06\bin\Debug\orientacao a objetos 8-06.exe
+C:\Users\Etec\Desktop\orientacao a objetos 8-06\orientacao a objetos 8-06\bin\Debug\orientacao a objetos 8-06.pdb
+C:\Users\Etec\Desktop\orientacao a objetos 8-06\orientacao a objetos 8-06\bin\Debug\orientacao a objetos 8-06.xml
+C:\Users\Etec\Desktop\orientacao a objetos 8-06\orientacao a objetos 8-06\obj\Debug\orientacao_a_objetos_8_06.Form1.resources
+C:\Users\Etec\Desktop\orientacao a objetos 8-06\orientacao a objetos 8-06\obj\Debug\orientacao_a_objetos_8_06.Resources.resources
+C:\Users\Etec\Desktop\orientacao a objetos 8-06\orientacao a objetos 8-06\obj\Debug\orientacao a objetos 8-06.vbproj.GenerateResource.Cache
+C:\Users\Etec\Desktop\orientacao a objetos 8-06\orientacao a objetos 8-06\obj\Debug\orientacao a objetos 8-06.exe
+C:\Users\Etec\Desktop\orientacao a objetos 8-06\orientacao a objetos 8-06\obj\Debug\orientacao a objetos 8-06.xml
+C:\Users\Etec\Desktop\orientacao a objetos 8-06\orientacao a objetos 8-06\obj\Debug\orientacao a objetos 8-06.pdb
+E:\LARA\LPOO\orientacao a objetos 8-06\orientacao a objetos 8-06\bin\Debug\orientacao a objetos 8-06.exe.config
+E:\LARA\LPOO\orientacao a objetos 8-06\orientacao a objetos 8-06\obj\Debug\orientacao a objetos 8-06.exe
+E:\LARA\LPOO\orientacao a objetos 8-06\orientacao a objetos 8-06\obj\Debug\orientacao a objetos 8-06.xml
+E:\LARA\LPOO\orientacao a objetos 8-06\orientacao a objetos 8-06\obj\Debug\orientacao a objetos 8-06.pdb

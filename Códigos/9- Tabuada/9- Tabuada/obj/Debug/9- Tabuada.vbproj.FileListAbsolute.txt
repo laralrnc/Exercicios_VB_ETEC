@@ -1,0 +1,24 @@
+C:\Users\SALA\AppData\Local\Temporary Projects\9- Tabuada\bin\Debug\9- Tabuada.exe.config
+C:\Users\SALA\AppData\Local\Temporary Projects\9- Tabuada\bin\Debug\9- Tabuada.exe
+C:\Users\SALA\AppData\Local\Temporary Projects\9- Tabuada\bin\Debug\9- Tabuada.pdb
+C:\Users\SALA\AppData\Local\Temporary Projects\9- Tabuada\bin\Debug\9- Tabuada.xml
+C:\Users\SALA\AppData\Local\Temporary Projects\9- Tabuada\obj\Debug\_9__Tabuada.Form1.resources
+C:\Users\SALA\AppData\Local\Temporary Projects\9- Tabuada\obj\Debug\_9__Tabuada.Resources.resources
+C:\Users\SALA\AppData\Local\Temporary Projects\9- Tabuada\obj\Debug\9- Tabuada.vbproj.GenerateResource.Cache
+C:\Users\SALA\AppData\Local\Temporary Projects\9- Tabuada\obj\Debug\9- Tabuada.exe
+C:\Users\SALA\AppData\Local\Temporary Projects\9- Tabuada\obj\Debug\9- Tabuada.xml
+C:\Users\SALA\AppData\Local\Temporary Projects\9- Tabuada\obj\Debug\9- Tabuada.pdb
+C:\Users\SALA\Desktop\9- Tabuada\9- Tabuada\bin\Debug\9- Tabuada.exe.config
+C:\Users\SALA\Desktop\9- Tabuada\9- Tabuada\obj\Debug\9- Tabuada.exe
+C:\Users\SALA\Desktop\9- Tabuada\9- Tabuada\obj\Debug\9- Tabuada.xml
+C:\Users\SALA\Desktop\9- Tabuada\9- Tabuada\obj\Debug\9- Tabuada.pdb
+I:\lara\LPOO\9- Tabuada\9- Tabuada\bin\Debug\9- Tabuada.exe.config
+I:\lara\LPOO\9- Tabuada\9- Tabuada\obj\Debug\9- Tabuada.exe
+I:\lara\LPOO\9- Tabuada\9- Tabuada\obj\Debug\9- Tabuada.xml
+I:\lara\LPOO\9- Tabuada\9- Tabuada\obj\Debug\9- Tabuada.pdb
+I:\lara\LPOO\9- Tabuada\9- Tabuada\bin\Debug\9- Tabuada.exe
+I:\lara\LPOO\9- Tabuada\9- Tabuada\bin\Debug\9- Tabuada.pdb
+I:\lara\LPOO\9- Tabuada\9- Tabuada\bin\Debug\9- Tabuada.xml
+I:\lara\LPOO\9- Tabuada\9- Tabuada\obj\Debug\_9__Tabuada.Form1.resources
+I:\lara\LPOO\9- Tabuada\9- Tabuada\obj\Debug\_9__Tabuada.Resources.resources
+I:\lara\LPOO\9- Tabuada\9- Tabuada\obj\Debug\9- Tabuada.vbproj.GenerateResource.Cache

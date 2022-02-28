@@ -1,0 +1,30 @@
+C:\Users\SALA\AppData\Local\Temporary Projects\13 -Salário final e salário fixo\bin\Debug\13 -Salário final e salário fixo.exe.config
+C:\Users\SALA\AppData\Local\Temporary Projects\13 -Salário final e salário fixo\bin\Debug\13 -Salário final e salário fixo.exe
+C:\Users\SALA\AppData\Local\Temporary Projects\13 -Salário final e salário fixo\bin\Debug\13 -Salário final e salário fixo.pdb
+C:\Users\SALA\AppData\Local\Temporary Projects\13 -Salário final e salário fixo\bin\Debug\13 -Salário final e salário fixo.xml
+C:\Users\SALA\AppData\Local\Temporary Projects\13 -Salário final e salário fixo\obj\Debug\_13__Salário_final_e_salário_fixo.Form1.resources
+C:\Users\SALA\AppData\Local\Temporary Projects\13 -Salário final e salário fixo\obj\Debug\_13__Salário_final_e_salário_fixo.Resources.resources
+C:\Users\SALA\AppData\Local\Temporary Projects\13 -Salário final e salário fixo\obj\Debug\13 -Salário final e salário fixo.vbproj.GenerateResource.Cache
+C:\Users\SALA\AppData\Local\Temporary Projects\13 -Salário final e salário fixo\obj\Debug\13 -Salário final e salário fixo.exe
+C:\Users\SALA\AppData\Local\Temporary Projects\13 -Salário final e salário fixo\obj\Debug\13 -Salário final e salário fixo.xml
+C:\Users\SALA\AppData\Local\Temporary Projects\13 -Salário final e salário fixo\obj\Debug\13 -Salário final e salário fixo.pdb
+C:\Users\SALA\Desktop\13 -Salário final e salário fixo\13 -Salário final e salário fixo\bin\Debug\13 -Salário final e salário fixo.exe.config
+C:\Users\SALA\Desktop\13 -Salário final e salário fixo\13 -Salário final e salário fixo\obj\Debug\13 -Salário final e salário fixo.exe
+C:\Users\SALA\Desktop\13 -Salário final e salário fixo\13 -Salário final e salário fixo\obj\Debug\13 -Salário final e salário fixo.xml
+C:\Users\SALA\Desktop\13 -Salário final e salário fixo\13 -Salário final e salário fixo\obj\Debug\13 -Salário final e salário fixo.pdb
+C:\Users\SALA\Desktop\13 -Salário final e salário fixo\13 -Salário final e salário fixo\bin\Debug\13 -Salário final e salário fixo.exe
+C:\Users\SALA\Desktop\13 -Salário final e salário fixo\13 -Salário final e salário fixo\bin\Debug\13 -Salário final e salário fixo.pdb
+C:\Users\SALA\Desktop\13 -Salário final e salário fixo\13 -Salário final e salário fixo\bin\Debug\13 -Salário final e salário fixo.xml
+C:\Users\SALA\Desktop\13 -Salário final e salário fixo\13 -Salário final e salário fixo\obj\Debug\_13__Salário_final_e_salário_fixo.Form1.resources
+C:\Users\SALA\Desktop\13 -Salário final e salário fixo\13 -Salário final e salário fixo\obj\Debug\_13__Salário_final_e_salário_fixo.Resources.resources
+C:\Users\SALA\Desktop\13 -Salário final e salário fixo\13 -Salário final e salário fixo\obj\Debug\13 -Salário final e salário fixo.vbproj.GenerateResource.Cache
+I:\lara\LPOO\13 -Salário final e salário fixo\13 -Salário final e salário fixo\bin\Debug\13 -Salário final e salário fixo.exe.config
+I:\lara\LPOO\13 -Salário final e salário fixo\13 -Salário final e salário fixo\obj\Debug\13 -Salário final e salário fixo.exe
+I:\lara\LPOO\13 -Salário final e salário fixo\13 -Salário final e salário fixo\obj\Debug\13 -Salário final e salário fixo.xml
+I:\lara\LPOO\13 -Salário final e salário fixo\13 -Salário final e salário fixo\obj\Debug\13 -Salário final e salário fixo.pdb
+I:\lara\LPOO\13 -Salário final e salário fixo\13 -Salário final e salário fixo\bin\Debug\13 -Salário final e salário fixo.exe
+I:\lara\LPOO\13 -Salário final e salário fixo\13 -Salário final e salário fixo\bin\Debug\13 -Salário final e salário fixo.pdb
+I:\lara\LPOO\13 -Salário final e salário fixo\13 -Salário final e salário fixo\bin\Debug\13 -Salário final e salário fixo.xml
+I:\lara\LPOO\13 -Salário final e salário fixo\13 -Salário final e salário fixo\obj\Debug\_13__Salário_final_e_salário_fixo.Form1.resources
+I:\lara\LPOO\13 -Salário final e salário fixo\13 -Salário final e salário fixo\obj\Debug\_13__Salário_final_e_salário_fixo.Resources.resources
+I:\lara\LPOO\13 -Salário final e salário fixo\13 -Salário final e salário fixo\obj\Debug\13 -Salário final e salário fixo.vbproj.GenerateResource.Cache

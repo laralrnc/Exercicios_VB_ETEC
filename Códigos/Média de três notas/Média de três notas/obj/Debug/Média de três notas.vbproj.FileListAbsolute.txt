@@ -1,0 +1,25 @@
+C:\Users\Etec\AppData\Local\Temporary Projects\Média de três notas\bin\Debug\Média de três notas.exe.config
+C:\Users\Etec\Desktop\Média de três notas\Média de três notas\bin\Debug\Média de três notas.exe.config
+C:\Users\Etec\Desktop\Média de três notas\Média de três notas\bin\Debug\Média de três notas.exe
+C:\Users\Etec\Desktop\Média de três notas\Média de três notas\bin\Debug\Média de três notas.pdb
+C:\Users\Etec\Desktop\Média de três notas\Média de três notas\bin\Debug\Média de três notas.xml
+C:\Users\Etec\Desktop\Média de três notas\Média de três notas\obj\Debug\Média_de_três_notas.Form1.resources
+C:\Users\Etec\Desktop\Média de três notas\Média de três notas\obj\Debug\Média_de_três_notas.Resources.resources
+C:\Users\Etec\Desktop\Média de três notas\Média de três notas\obj\Debug\Média de três notas.vbproj.GenerateResource.Cache
+C:\Users\Etec\Desktop\Média de três notas\Média de três notas\obj\Debug\Média de três notas.exe
+C:\Users\Etec\Desktop\Média de três notas\Média de três notas\obj\Debug\Média de três notas.xml
+C:\Users\Etec\Desktop\Média de três notas\Média de três notas\obj\Debug\Média de três notas.pdb
+E:\lara\LPOO\Média de três notas\Média de três notas\bin\Debug\Média de três notas.exe.config
+E:\lara\LPOO\Média de três notas\Média de três notas\obj\Debug\Média de três notas.exe
+E:\lara\LPOO\Média de três notas\Média de três notas\obj\Debug\Média de três notas.xml
+E:\lara\LPOO\Média de três notas\Média de três notas\obj\Debug\Média de três notas.pdb
+I:\lara\LPOO\Média de três notas\Média de três notas\bin\Debug\Média de três notas.exe.config
+I:\lara\LPOO\Média de três notas\Média de três notas\obj\Debug\Média de três notas.exe
+I:\lara\LPOO\Média de três notas\Média de três notas\obj\Debug\Média de três notas.xml
+I:\lara\LPOO\Média de três notas\Média de três notas\obj\Debug\Média de três notas.pdb
+I:\lara\LPOO\Média de três notas\Média de três notas\bin\Debug\Média de três notas.exe
+I:\lara\LPOO\Média de três notas\Média de três notas\bin\Debug\Média de três notas.pdb
+I:\lara\LPOO\Média de três notas\Média de três notas\bin\Debug\Média de três notas.xml
+I:\lara\LPOO\Média de três notas\Média de três notas\obj\Debug\Média_de_três_notas.Form1.resources
+I:\lara\LPOO\Média de três notas\Média de três notas\obj\Debug\Média_de_três_notas.Resources.resources
+I:\lara\LPOO\Média de três notas\Média de três notas\obj\Debug\Média de três notas.vbproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+C:\Users\SALA\AppData\Local\Temporary Projects\12- Empréstimo\bin\Debug\12- Empréstimo.exe.config
+C:\Users\SALA\AppData\Local\Temporary Projects\12- Empréstimo\bin\Debug\12- Empréstimo.exe
+C:\Users\SALA\AppData\Local\Temporary Projects\12- Empréstimo\bin\Debug\12- Empréstimo.pdb
+C:\Users\SALA\AppData\Local\Temporary Projects\12- Empréstimo\bin\Debug\12- Empréstimo.xml
+C:\Users\SALA\AppData\Local\Temporary Projects\12- Empréstimo\obj\Debug\_12__Empréstimo.Form1.resources
+C:\Users\SALA\AppData\Local\Temporary Projects\12- Empréstimo\obj\Debug\_12__Empréstimo.Resources.resources
+C:\Users\SALA\AppData\Local\Temporary Projects\12- Empréstimo\obj\Debug\12- Empréstimo.vbproj.GenerateResource.Cache
+C:\Users\SALA\AppData\Local\Temporary Projects\12- Empréstimo\obj\Debug\12- Empréstimo.exe
+C:\Users\SALA\AppData\Local\Temporary Projects\12- Empréstimo\obj\Debug\12- Empréstimo.xml
+C:\Users\SALA\AppData\Local\Temporary Projects\12- Empréstimo\obj\Debug\12- Empréstimo.pdb
+C:\Users\SALA\Desktop\12- Empréstimo\12- Empréstimo\bin\Debug\12- Empréstimo.exe.config
+C:\Users\SALA\Desktop\12- Empréstimo\12- Empréstimo\obj\Debug\12- Empréstimo.exe
+C:\Users\SALA\Desktop\12- Empréstimo\12- Empréstimo\obj\Debug\12- Empréstimo.xml
+C:\Users\SALA\Desktop\12- Empréstimo\12- Empréstimo\obj\Debug\12- Empréstimo.pdb

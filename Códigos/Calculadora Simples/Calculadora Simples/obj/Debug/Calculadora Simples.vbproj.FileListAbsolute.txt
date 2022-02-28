@@ -1,0 +1,44 @@
+C:\Users\Etec\AppData\Local\Temporary Projects\Calculadora Simples\bin\Debug\Calculadora Simples.exe.config
+C:\Users\Etec\AppData\Local\Temporary Projects\Calculadora Simples\bin\Debug\Calculadora Simples.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\Calculadora Simples\bin\Debug\Calculadora Simples.pdb
+C:\Users\Etec\AppData\Local\Temporary Projects\Calculadora Simples\bin\Debug\Calculadora Simples.xml
+C:\Users\Etec\AppData\Local\Temporary Projects\Calculadora Simples\obj\Debug\Calculadora_Simples.Form1.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\Calculadora Simples\obj\Debug\Calculadora_Simples.Resources.resources
+C:\Users\Etec\AppData\Local\Temporary Projects\Calculadora Simples\obj\Debug\Calculadora Simples.vbproj.GenerateResource.Cache
+C:\Users\Etec\AppData\Local\Temporary Projects\Calculadora Simples\obj\Debug\Calculadora Simples.exe
+C:\Users\Etec\AppData\Local\Temporary Projects\Calculadora Simples\obj\Debug\Calculadora Simples.xml
+C:\Users\Etec\AppData\Local\Temporary Projects\Calculadora Simples\obj\Debug\Calculadora Simples.pdb
+K:\lara\LPOO\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.exe.config
+K:\lara\LPOO\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.exe
+K:\lara\LPOO\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.xml
+K:\lara\LPOO\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.pdb
+K:\lara\LPOO\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.exe
+K:\lara\LPOO\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.pdb
+K:\lara\LPOO\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.xml
+K:\lara\LPOO\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora_Simples.Form1.resources
+K:\lara\LPOO\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora_Simples.Resources.resources
+K:\lara\LPOO\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.vbproj.GenerateResource.Cache
+F:\lara\LPOO\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.exe.config
+F:\lara\LPOO\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.exe
+F:\lara\LPOO\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.xml
+F:\lara\LPOO\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.pdb
+F:\lara\LPOO\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.exe
+F:\lara\LPOO\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.pdb
+F:\lara\LPOO\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.xml
+F:\lara\LPOO\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora_Simples.Form1.resources
+F:\lara\LPOO\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora_Simples.Resources.resources
+F:\lara\LPOO\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.vbproj.GenerateResource.Cache
+J:\lara\LPOO\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.exe.config
+J:\lara\LPOO\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.exe
+J:\lara\LPOO\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.xml
+J:\lara\LPOO\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.pdb
+E:\lara\LPOO\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.exe.config
+E:\lara\LPOO\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.exe
+E:\lara\LPOO\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.xml
+E:\lara\LPOO\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.pdb
+E:\lara\LPOO\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.exe
+E:\lara\LPOO\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.pdb
+E:\lara\LPOO\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.xml
+E:\lara\LPOO\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora_Simples.Form1.resources
+E:\lara\LPOO\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora_Simples.Resources.resources
+E:\lara\LPOO\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.vbproj.GenerateResource.Cache
